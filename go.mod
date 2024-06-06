@@ -1,3 +1,3 @@
-module github.com/RVodassa/LeetCode-Golang
+module LeetCode-Golang
 
 go 1.22.3
